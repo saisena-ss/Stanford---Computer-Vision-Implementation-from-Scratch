@@ -1,5 +1,5 @@
 This repository contains assignments of the course cs231n Deep Learning for Computer Vision at Stanford. Assignments are taken from here: https://cs231n.stanford.edu/assignments.html.
-I found this interesting as it'll improve my theoretical and practical understanding of deep learning techniques by implementing everything from scratch. Below are the details about each assignment:
+I found this interesting as it'll improve my theoretical and practical understanding of deep learning techniques by implementing everything from scratch. Below are the details about each assignment (still working):
 
 ### Assignment 1: Image Classification, kNN, SVM, Softmax, Fully-Connected Neural Network
 
